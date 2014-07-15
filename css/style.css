@@ -34,7 +34,7 @@ i {
 /* Set the fixed height of the header here */
 #header {
 	height: 80px;
-	background-color: #eee;
+	background-color: #428bca;
 }
 
 #wrap>.container {
@@ -47,7 +47,7 @@ i {
 }
 #footer {
 	height: 60px;
-	background-color: #eee;
+	background-color: #428bca;
 }
 #footer>.container {
 	padding-left: 15px;
